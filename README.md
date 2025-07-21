@@ -7,8 +7,7 @@ A full-stack e-commerce web application built using the **MERN stack** (MongoDB,
 
 ### Frontend:
 - React.js
-- Material UI / Chakra UI / Bootstrap (choose one based on what you're using)
-- Axios
+- Chakra UI 
 - React Router
 
 ### Backend:
