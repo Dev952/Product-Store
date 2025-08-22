@@ -1,7 +1,11 @@
 # 🛍️ Product Store
 
-A full-stack e-commerce web application built using the **MERN stack** (MongoDB, Express, React, Node.js). This project allows users to view, create, and manage products in a simple product management store.
+A full-stack e-commerce web application built using the **MERN stack** (MongoDB, Express, React, Node.js).  
+This project allows users to view, create, and manage products in a simple product management store.
 
+🔗 **Live Demo**: [Product Store](https://product-store-w9r0.onrender.com/)
+
+---
 
 ## 🧰 Tech Stack
 
@@ -19,13 +23,13 @@ A full-stack e-commerce web application built using the **MERN stack** (MongoDB,
 
 ## 📦 Features
 
-- 🔍 View all products
-- 🛒 Add new products
-- ✏️ Edit existing products
-- 🗑️ Delete products
-- 🌐 RESTful API integration
-- ⚡ Fast and responsive UI
-- 📦 Image upload support (optional)
+- 🔍 View all products  
+- 🛒 Add new products  
+- ✏️ Edit existing products  
+- 🗑️ Delete products  
+- 🌐 RESTful API integration  
+- ⚡ Fast and responsive UI  
+- 📦 Image upload support (optional)  
 
 ---
 
@@ -69,7 +73,7 @@ Edit
 cd backend
 npm install
 npm run dev
-Make sure MongoDB is running locally
+➡️ Make sure MongoDB is running locally
 
 Create a .env file inside backend/ with:
 
@@ -85,10 +89,12 @@ Edit
 cd frontend
 npm install
 npm start
-Frontend will run on http://localhost:3000 and backend on http://localhost:5000.
+➡️ Frontend will run on http://localhost:3000 and backend on http://localhost:5000.
 
 📷 Screenshots
-Home Page	Create Product
+Home Page
+
+Create Product
 
 📚 API Endpoints
 Method	Route	Description
@@ -99,28 +105,12 @@ DELETE	/api/products/:id	Delete product
 
 🧑‍💻 Author
 Dev Trivedi
-LinkedIn (https://www.linkedin.com/in/dev-trivedi-a8b877250/)
-
+🔗 LinkedIn
 
 📄 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgements
-MERN Stack Guide - FreeCodeCamp
 
-MongoDB Docs
-
-React Documentation
-
-markdown
-Copy
 Edit
 
----
-
-### ✅ Next Steps:
-1. Replace placeholders like `your-username`, `Live Demo Link`, and `LinkedIn` with your actual links.
-2. Add screenshots in a `screenshots/` folder.
-3. Include any instructions if you added extra features (e.g., authentication, image uploads).
-
-Let me know if you'd like to add **authentication**, **pagination**, or **deploymen
+Do you want me to also include a **"Deployment" section** in this same file that exp
